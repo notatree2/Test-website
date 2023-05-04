@@ -14,9 +14,11 @@ h1 {
   p {
     color: green;
   }
+  
 
+div.c {
+margin-left: 25%;
+margin-right: 25%;
+text-align: right;
 
-  body {
-font-family: Georgia, serif;
-
-  }
+}
